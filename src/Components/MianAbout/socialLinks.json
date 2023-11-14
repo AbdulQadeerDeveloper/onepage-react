@@ -1,0 +1,19 @@
+{
+  "socialLinks": [
+    {
+      "id": 1,
+      "name": "Facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "id": 2,
+      "name": "Twitter",
+      "url": "https://twitter.com/"
+    },
+    {
+      "id": 3,
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ruby",
+    "percentage": 75,
+    "labelClass": "cssProgress-label-1",
+    "barClass": "bar-1"
+  },
+  {
+    "name": "Angular",
+    "percentage": 90,
+    "labelClass": "cssProgress-label-2",
+    "barClass": "bar-2"
+  },
+  {
+    "name": "Rails",
+    "percentage": 70,
+    "labelClass": "cssProgress-label-3",
+    "barClass": "bar-3"
+  },
+  {
+    "name": "JQuery",
+    "percentage": 78,
+    "labelClass": "cssProgress-label-4",
+    "barClass": "bar-4"
+  },
+  {
+    "name": "HTML",
+    "percentage": 63,
+    "labelClass": "cssProgress-label-5",
+    "barClass": "bar-5"
+  }
+]
